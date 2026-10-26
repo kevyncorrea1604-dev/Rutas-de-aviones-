@@ -1,0 +1,20 @@
+origen,destino,distancia_km,tiempo_horas
+Colombia,Estados Unidos,3500,5
+Colombia,Brasil,4500,6
+Estados Unidos,España,6000,8
+Estados Unidos,Alemania,6500,9
+España,Alemania,1800,3
+España,Brasil,7500,10
+Alemania,Brasil,9500,12
+Colombia,México,3150,4.5
+México,Estados Unidos,3000,4.5
+México,Canadá,3600,5
+Estados Unidos,Canadá,2500,4
+España,Francia,1050,2
+Francia,Alemania,880,1.5
+Francia,Reino Unido,340,1.2
+Reino Unido,Estados Unidos,5900,8
+Brasil,Chile,3000,4.5
+Brasil,Argentina,1700,3
+Chile,Argentina,1400,2.5
+Alemania,Japón,9300,12
